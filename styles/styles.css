@@ -1,0 +1,23 @@
+.bi{
+    background-image: url('../images/banner.png');
+    width: 1150px;
+height: 550px;
+text-align: center;
+margin-top: 75px;
+}
+.search{
+    width: 200px;
+height: 64px;
+padding-left: 400px;
+
+}
+.banner-title{
+    padding-top: 150px;
+}
+.mm{
+    width: 714px;
+height: 52px;
+}
+.margin-5{
+    margin-top: 750px;
+}
