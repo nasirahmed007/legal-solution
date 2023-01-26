@@ -5,6 +5,10 @@ height: 550px;
 text-align: center;
 margin-top: 75px;
 }
+.title-search{
+    display: flex;
+    justify-content: center;
+}
 .search{
     width: 200px;
 height: 64px;
@@ -14,10 +18,45 @@ padding-left: 400px;
 .banner-title{
     padding-top: 150px;
 }
-.mm{
-    width: 714px;
-height: 52px;
-}
 .margin-5{
     margin-top: 750px;
+}
+.cbox{
+    display: flex;
+    justify-content: space-between;
+}
+.carocel-title{
+    margin-top: 120px;
+}
+.carocel-1{
+    background-image: url("../images/slider-1.jpg");
+    width: 1170px;
+    height: 500px;
+
+}
+.carocel-2{
+    background-image: url("../images/slider-2.jpg");
+    width: 1170px;
+    height: 500px;
+    
+
+}
+.carocel-3{
+    background-image: url("../images/slider-3.jpg");
+    width: 1170px;
+    height: 500px;
+
+}
+.carocol-text{
+    text-align: center;
+}
+.accodion{
+    display: flex;
+    gap: 30px;
+    justify-content: space-around;
+    margin-top: 60px;
+    
+}
+.agap{
+    padding: 15px 0;
 }
